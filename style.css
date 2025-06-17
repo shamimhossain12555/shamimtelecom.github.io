@@ -1,0 +1,23 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding: 20px;
+}
+.profile-img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+a {
+  color: #1a0dab;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
