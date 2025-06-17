@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SHAMIM HOSSAIN (SAMIR) - Knowledge Panel</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+    .container {
+      background: white;
+      max-width: 800px;
+      margin: auto;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .profile-img {
+      max-width: 200px;
+      border-radius: 10px;
+      margin-bottom: 10px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 28px;
+      color: #333;
+    }
+    .subtitle {
+      color: #777;
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    .info {
+      line-height: 1.6;
+    }
+    .info strong {
+      color: #333;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img class="profile-img" src="1000000227.jpg" alt="SHAMIM HOSSAIN (SAMIR)">
+    <h1>SHAMIM HOSSAIN (SAMIR)</h1>
+    <p class="subtitle">Expert App Developer</p>
+    <div class="info">
+      <p><strong>Location:</strong> বর্ষাইল বাজার, নওগাঁ, বাংলাদেশ</p>
+      <p><strong>Facebook:</strong> <a href="https://www.facebook.com/samir.ahmed.extic" target="_blank">facebook.com/samir.ahmed.extic</a></p>
+      <p><strong>Instagram:</strong> <a href="https://www.instagram.com/samir.ahmed.extic" target="_blank">instagram.com/samir.ahmed.extic</a></p>
+      <p><strong>Known For:</strong> Building advanced ISP systems, Android apps, and PC control tools for SHAMIM TELECOM.</p>
+      <p><strong>Brand:</strong> SHAMIM TELECOM</p>
+    </div>
+  </div>
+</body>
+</html>
